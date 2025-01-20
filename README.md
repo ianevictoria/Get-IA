@@ -1,17 +1,17 @@
 <div align="center" style="text-align: center">
-<h3>RECURSOS GRATUITOS DE INTELIGÊNCIA ARTIFICIAL</h3>
-<p>
-  Este repositório reúne materiais gratuitos para você aprender e se aprofundar em IA, incluindo cursos, livros, podcasts, artigos e muito mais. Todos os recursos estão organizados para facilitar o acesso. 
-</p>
-<p>
-  <a href="https://github.com/sindresorhus/awesome">
-    <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"
-  ></a>
-  <a href="https://github.com/ossu/computer-science">
-    <img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg"
-  ></a>
-</p>
+  <h3>RECURSOS GRATUITOS DE INTELIGÊNCIA ARTIFICIAL</h3>
+  <p>
+    Este repositório reúne materiais gratuitos para você aprender e se aprofundar em IA, incluindo cursos, livros, podcasts, artigos e muito mais. Todos os recursos estão organizados para facilitar o acesso.
+  </p>
+  <p>
+    <img 
+      src="https://komarev.com/ghpvc/?username=ianevictoria&label=%20Visualizações&color=0ca4fb&style=for-the-badge" 
+      alt="Contador de Visualizações" 
+      width="250" 
+    />
+  </p>
 </div>
+
 
 ---
 
